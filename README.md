@@ -11,8 +11,5 @@
     <li>let JavaScript = {"GSAP", "Locomotive", "jQuery", "Node JS", "NPM", "React JS"}</li>
   </ul>
   <br>
-  <li>C, C++, C#</li>
-  <li>Python</li>
-  <li>Java</li>
-  <li>Kotlin</li>
+  <li>C, C++</li>
 </ul>
