@@ -8,7 +8,7 @@
   <li>JavaScript</li>
   <li><h5>In JavaScript</h5></li>
   <ul>
-    <li>let JavaScript = {"jQuery", "Node JS", "NPM", "React JS"}</li>
+    <li>let JavaScript = {"GSAP", "Locomotive", "jQuery", "Node JS", "NPM", "React JS"}</li>
   </ul>
   <br>
   <li>C, C++, C#</li>
