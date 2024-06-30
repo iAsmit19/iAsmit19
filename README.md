@@ -1,5 +1,5 @@
 <h1>Hi, I'm Asmit</h1>
-<h2>a UI/UX and Frontend Developer</h2>
+<h2>a Frontend Developer and  UI/UX</h2>
 <h4>My Skills are listed below,</h4>
 <ul>
   <li>HTML</li>
