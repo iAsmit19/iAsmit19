@@ -11,9 +11,3 @@
 Here's my GitHub Stats for Transparency (It looks cool 💀)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iAsmit19&show_icons=true&theme=swift&hide=prs,issues&count_private=true&border_radius=16)
-
-<br/>
-  
-Streak Statistics cus why not :)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=iAsmit19&theme=swift&border_radius=16&date_format=M%20j%5B%2C%20Y%5D&card_width=600&ring=464646&border=777777&fire=EB5454)](https://git.io/streak-stats)
